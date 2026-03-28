@@ -1,6 +1,6 @@
 USE db_locadora;
 
--- Inert aninhado
+-- Insert aninhado
 
 INSERT INTO tb_clientes (nome,telefone,email) VALUES
 ('João','111111','email1@gmail.com'),
