@@ -1,5 +1,7 @@
 USE db_locadora;
 
+-- Detalhamento do Script
+
 -- Insert único
 -- INSERT INTO tb_categoria (descricao) 
 -- VALUES 
